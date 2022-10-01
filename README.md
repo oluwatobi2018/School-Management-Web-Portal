@@ -26,14 +26,6 @@ Clone the repo
 git clone https://github.com/upendradhamala/School-Management-System.git
 ```
 
-### Getting Started
-
-Go to the root folder and install the backend dependencies by using the command-
-
-```bash
-npm install
-```
-
 Go to the frontend folder by command cd frontend and then install frontend dependecies using the command-
 
 ```bash
