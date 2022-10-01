@@ -8,7 +8,7 @@ const Footer = () => {
         <span className='emoji'>
           <i className='fas fa-heart'></i>{' '}
         </span>{' '}
-        by Upendra Dhamala
+        by Christopher Adeogun
       </span>
     </div>
   )
