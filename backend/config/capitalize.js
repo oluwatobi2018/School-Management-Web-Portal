@@ -2,7 +2,7 @@ const capitalize = (givenstring) => {
   const a = givenstring
   var k
   var o = []
-  var j
+  var b
   const b = a.split(' ')
   for (k = 0; k < b.length; k++) {
     var p = b[k]
