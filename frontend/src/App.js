@@ -44,7 +44,6 @@ const App = () => {
             path='/student_details'
             component={StudentDetails}
             exact
-          />
           <PrivateRoute
             path='/student_details/details/:id'
             component={StudentDeepDetails}
